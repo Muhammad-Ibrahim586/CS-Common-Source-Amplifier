@@ -9,7 +9,7 @@ This project demonstrates the design and simulation of a Common Source (CS) Ampl
 3) Detailed report explaining the circuit design, working, and performance analysis.
 
 ## Files Included
-1)**Proteus-Simulation**: Contains the `.pdsprj` file for the circuit simulation.
+1) **Proteus-Simulation**: Contains the `.pdsprj` file for the circuit simulation.
 2) **Report**: A comprehensive document detailing the design and functionality of the amplifier.
 
 ## Applications
