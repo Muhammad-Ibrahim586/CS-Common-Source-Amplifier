@@ -1,0 +1,18 @@
+# Ignore Proteus generated temporary and backup files
+*.ddb
+*.exf
+*.idx
+*.smt
+*.tmp
+*.bak
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore general temporary or build files
+*.swp
+*.out
